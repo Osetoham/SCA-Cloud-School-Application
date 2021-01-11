@@ -15,7 +15,7 @@ This readme very clearly describes the test process and it's output, it also sho
 
 ![dockerrun](img/run.png)
 
-![webpage](img/webpage.png)
+![webpage](img/web.png)
 
 **The docker image is tagged, this command is run**
 
