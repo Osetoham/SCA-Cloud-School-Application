@@ -26,3 +26,10 @@ This readme very clearly describes the test process and it's output, it also sho
 *docker push mercyose/sca-cloud-excercise*
 <img alt ='docker-push' src='img/dockerpush.PNG'>
 
+**Changed text, commited and pushed**
+<img alt ='dockerfile-text' src='img/dockerfile.png'>
+
+
+**Link to the docker hub repository**
+[Docker Hub Repository Link](https://hub.docker.com/repository/docker/mercyose/sca-cloud-excercise)
+
