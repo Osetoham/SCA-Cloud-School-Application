@@ -4,7 +4,7 @@ This readme very clearly describes the test process and it's output, it also sho
 
 **Creating the Dockerfile that displays a webpage, each layers are inputted**
 
-<img alt='dockerfile' src="img/docker1.png">
+<img alt ='dockerfile-layers' src='img/dockerfile-layers.PNG'>
 
 **Building the docker image, this command is run**
 
