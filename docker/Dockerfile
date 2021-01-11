@@ -2,6 +2,9 @@ FROM nginx:alpine
 
 COPY . /usr/share/nginx/html
 
-RUN echo "Welcome to SCA Cloud School Application, this is my first assessment"
+RUN echo "Welcome to SCA Cloud School Application"
 
 EXPOSE 80
+
+
+
