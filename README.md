@@ -4,18 +4,18 @@ This readme very clearly describes the test process and it's output, it also sho
 
 **Creating the Dockerfile that displays a webpage, each layers are inputted**
 
-![dockerfile](img/docker1.png)
+<img alt='dockerfile' src="img/docker1.png">
 
 **Building the docker image, this command is run**
 
 *docker build -t sca-cloud-exercise*
-![dockerimage](img/dockerimage.png)
+<img alt ='docker-image' src='img/dockerimage.png'>
 
 *docker run -p 3000:80 sca-cloud-exercise*
 
-![dockerrun](img/run.png)
+<img alt ='docker-run' src='img/run.PNG'>
 
-![webpage](img/web.png)
+<img alt ='web-page' src='img/web.PNG'>
 
 **The docker image is tagged, this command is run**
 
@@ -24,5 +24,5 @@ This readme very clearly describes the test process and it's output, it also sho
 **The docker image is pushed to docker hub, this command is run**
 
 *docker push mercyose/sca-cloud-excercise*
-![](img/dockerpush.PNG)
+<img alt ='docker-push' src='img/dockerpush.PNG'>
 
